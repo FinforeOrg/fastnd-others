@@ -1,0 +1,18 @@
+Apple
+-----
+Your Team ID (PXE482Q42P) will be used as the App ID Prefix.
+FastND123~
+
+distribution
+44~London~
+
+
+BlackBerry
+----------
+keypass 098765
+fastnd34finfore
+
+
+Android
+-------
+fastnd34~123

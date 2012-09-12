@@ -1,0 +1,5 @@
+#The database file containing information for requesting signatures.
+#Wed May 02 12:44:46 EEST 2012
+RBB=3191818357http\://www.rim.net/Websigner/servlet/BBApps
+RRT=3191818357http\://www.rim.net/Websigner/servlet/Runtime
+RCR=3191818357http\://www.rim.net/Websigner/servlet/CryptoRIM

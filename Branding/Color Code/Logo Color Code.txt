@@ -1,0 +1,5 @@
+Color code Separation (CMYK):
+
+
+Color_1	: C=96,  M=80,	Y=56,	K=28
+Color_2	: C=100, M=0,	Y=0,	K=0
